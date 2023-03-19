@@ -1,7 +1,7 @@
-#Foodingo
+<h1>Foodingo</h1>
 Foodingo is a web application that helps users find nearby restaurants and order food online. The application allows users to search for restaurants by location, cuisine, and menu item. Once the user has selected a restaurant, they can browse the menu, add items to their cart, and place an order for delivery or pickup.
 
-#Technologies Used
+<h1>Technologies Used</h1>
 Foodingo is built using the following technologies:
 
 • PHP
@@ -9,7 +9,7 @@ Foodingo is built using the following technologies:
 • HTML/CSS/JavaScript
 • Bootstrap
 
-#Getting Started
+<h1>Getting Started</h1>
 To run Foodingo on your local computer, follow these steps:
 1. Clone the repository to your local machine:
 2. Open the project folder in your preferred code editor.
@@ -19,7 +19,7 @@ To run Foodingo on your local computer, follow these steps:
 php -S localhost:8000 or you can use XAMPP.
 6. Open a web browser and navigate to http://localhost:8000 to view the application.
 
-#Contrubuting
+<h1>Contrubuting</h1>
 We welcome contributions to the Foodingo project! If you'd like to contribute, please follow these steps:
 1. Fork the repository.
 2. Create a new branch for your changes.
