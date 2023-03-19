@@ -11,13 +11,9 @@
 <h2>Getting Started</h2>
 <ol>
 	<li>Install <a href="https://www.apachefriends.org/index.html">XAMPP</a> on your computer.</li>
-	
 	<li>Clone the Foodingo repository to your computer using <code>git clone https://github.com/burakzdgn/Foodingo.git</code>.</li>
-	
 	<li>Move the <code>Foodingo</code> folder to the <code>htdocs</code> folder in your XAMPP installation directory.</li>
-	
 	<li>Start Apache and MySQL in XAMPP control panel.</li>
-	
 	<li>Open a web browser and go to <code>http://localhost/Foodingo</code> to view the Foodingo homepage.</li>
 </ol>
 
